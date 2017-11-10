@@ -1,0 +1,1815 @@
+# Webalizer V2.23-08 Incremental Data - 10/22/2017 17:02:32
+2017 10 22 17 2 32
+26946 21835 30 701 82 12 967642715 4404 136 0
+7 7 3601 3 22
+0 0 0 0 0 0
+0 0 0 0 0 0
+97 97 4482871 2 5 2
+0 0 0 0 0 0
+100 98 4385202 2 8 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+660 644 28799998 7 104 12
+13 13 425958 2 13 4
+0 0 0 0 0 0
+6468 5564 267392934 6 894 33
+1578 1185 44935052 5 419 9
+842 529 30037575 3 122 6
+214 118 8624989 3 8 4
+442 404 22102801 3 65 13
+294 294 13559864 3 17 9
+231 133 5677514 4 41 8
+0 0 0 0 0 0
+7335 5670 214493254 4 1223 16
+8672 7086 322724703 7 1485 22
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2015 1352 69554469 418
+1054 633 36295478 262
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+5 5 211420 5
+526 488 26034838 54
+162 152 7003418 50
+377 375 16662430 37
+3 3 105710 3
+1167 995 37359278 312
+3717 3250 147298077 526
+2592 2299 101627613 233
+107 105 4753640 14
+1844 856 30529755 241
+1067 806 29486938 145
+994 896 28348187 131
+4410 3814 177331812 757
+3523 3287 152170704 588
+3383 2519 102868948 628
+0
+0
+0
+21835
+68
+0
+0
+0
+0
+14
+0
+109
+155
+0
+3417
+0
+0
+0
+4
+0
+2
+1326
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+12
+0
+0
+0
+# -urls- 
+/wp-content/themes/illdy/jsautoload/jquery.js
+0 191 0 36563442 0 0
+/wp-content/uploads/2017/10/20113-768x472.png
+1 6 0 2288384 0 0
+/wp-content/uploads/2016/04/andrc3a9-gonc3a7alves-300x300.jpg
+1 6 0 78220 0 0
+/wp-content/uploads/2016/04/finalfinal-300x137.jpg
+1 9 0 80532 0 0
+/wp-content/plugins/post-types-order/css/cpt-archive-dd.css
+0 11 0 2170 0 0
+/wp-content/themes/illdy/jsautoload/zzbuttons.print.min.js
+0 191 0 294450 0 0
+/wp-content/uploads/2013/06/cd_5_angle-300x300.jpg
+1 5 0 36044 0 0
+/wp-admin/options-permalink.php
+0 2 0 197374 0 0
+/wp-includes/js/mediaelement/loading.gif
+1 1 0 6224 0 0
+/wp-content/uploads/2013/06/T_5_back-300x300.jpg
+1 5 0 24168 0 0
+/wp-content/uploads/2016/02/hero4-300x199.jpg
+1 5 0 35652 0 0
+/wp-content/uploads/2017/06/vitor-288x300.jpg
+1 11 0 197680 0 0
+/wp-content/uploads/2017/07/cidade-300x169.jpg
+1 11 0 189590 0 0
+/wp-content/uploads/2017/10/20112-768x560.png
+1 6 0 2140484 0 0
+/wp-content/uploads/2013/06/Poster_1_flat-300x300.jpg
+1 5 0 25868 0 0
+/wp-admin/images/loading.gif
+1 2 0 4508 0 0
+/wp-content/uploads/2017/10/resi-300x300.png
+1 2 0 147477 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/jvectormap/jquery-jvectormap-2.0.3.css
+0 2 0 13538 0 0
+/wp-content/plugins/flickr-album-gallery/css/site.css
+0 3 0 1284 0 0
+/wp-content/plugins/quick-paypal-payments/quick-paypal-media.js
+0 22 0 35300 0 0
+/wp-content/uploads/2017/10/2011-768x519.png
+1 6 0 1922580 0 0
+/wp-content/plugins/jetpack/images/stats-example-lrg.png
+1 2 0 121284 0 0
+/wp-content/themes/illdy/jsautoload/mbootstrap-confirmation.min.js
+0 241 0 920047 0 0
+/vantagens-de-socios/
+0 25 0 1794370 2 0
+/wp-content/uploads/2016/04/sara-oliveira-300x300.jpg
+1 6 0 59340 0 0
+/wp-content/plugins/tidio-live-chat/media/js/options.js
+0 22 0 127040 0 0
+/wp-content/uploads/2017/07/19720579_1897092403638056_757607839_o-300x83.jpg
+1 11 0 26470 0 0
+/wp-content/uploads/2016/08/informs-logo-crop-300x180.jpg
+1 7 0 33588 0 0
+/wp-content/uploads/2017/equipa/dirImagem.jpg
+1 114 0 523952 0 0
+/our-history/
+0 7 0 570713 0 0
+/wp-content/uploads/2017/equipa/luis.jpg
+1 114 0 487864 0 0
+/wp-content/uploads/2016/04/img_0530-300x225.jpg
+1 6 0 109160 0 0
+/wp-content/uploads/2016/08/student_team_competition1-300x285.png
+1 7 0 278040 0 0
+/wp-content/uploads/2017/equipa/claudio.jpg
+1 112 0 494700 0 0
+/wp-content/uploads/2017/10/20172-300x273.png
+1 7 0 419568 0 0
+/wp-includes/js/jquery/ui/progressbar.min.js
+0 191 0 373272 0 0
+/wp-content/uploads/2017/03/P5030004-300x225.jpg
+1 22 0 364266 0 0
+/wp-json/jetpack/v4/connection/url
+0 13 0 1274 0 1
+/wp-content/uploads/2017/07/redestouch-300x82.jpg
+1 11 0 74960 0 0
+/wp-admin/widgets.php
+0 4 0 1966475 0 0
+/wp-content/uploads/2017/10/2011-150x150.png
+1 5 0 109818 0 0
+/wp-content/uploads/2013/06/hoodie_6_front-300x300.jpg
+1 5 0 30760 0 0
+/wp-content/uploads/2017/06/david-287x300.jpg
+1 11 0 204540 0 0
+/wp-content/uploads/2016/03/12491847_795296990597284_6297552913037182057_o-300x111.jpg
+1 6 0 60195 0 0
+/wp-content/uploads/2013/06/Poster_3_flat-300x300.jpg
+1 5 0 22832 0 0
+/wp-content/themes/illdy/js/bootstrap.min.js
+0 54 0 1629980 0 0
+/wp-content/themes/illdy/jsautoload/mbootstrap-year-calendar.min.js
+0 191 0 3085836 0 0
+/wp-content/uploads/2013/06/cd_2_angle-300x300.jpg
+1 5 0 30144 0 0
+/wp-includes/js/tinymce/langs/wp-langs-en.js
+0 11 0 171589 0 0
+/wp-admin/update-core.php
+0 5 0 586345 2 0
+/wp-content/themes/illdy/uploads/integ2.png
+1 7 0 978732 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/select300/select300.css
+0 2 0 36436 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-media-views.js
+0 22 0 737520 0 0
+/wp-content/uploads/2017/06/secretario-255x300.jpg
+1 11 0 159430 0 0
+/wp-content/uploads/2013/01/news3.jpg
+1 111 0 15097581 0 0
+/blog/
+0 7 0 621634 3 0
+/wp-content/themes/illdy/layout/css/buttons.dataTables.min.css
+0 242 0 1758720 0 0
+/wp-content/uploads/2017/03/cropped-teste-e1490030962279.png
+1 25 0 298908 0 0
+/wp-content/uploads/2013/06/cd_3_flat-300x300.jpg
+1 5 0 25556 0 0
+/wp-includes/js/customize-preview-nav-menus.min.js
+0 13 0 60600 0 0
+/wp-content/uploads/2017/equipa/bruno.jpg
+1 112 0 483072 0 0
+/wp-content/uploads/2017/06/jose-275x300.jpg
+1 11 0 164660 0 0
+/wp-content/uploads/2017/06/maria-274x300.jpg
+1 11 0 163310 0 0
+/wp-admin/options-reading.php
+0 3 0 313760 0 0
+/wp-content/themes/illdy/bd/
+0 964 0 2164635 2 24
+/wp-content/plugins/page-scroll-to-id/css/admin-gen.css
+0 16 0 9660 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff
+0 14 0 240856 0 0
+/wp-includes/js/customize-preview.min.js
+0 13 0 121404 0 0
+/wp-admin/upload.php
+0 21 0 2044090 0 0
+/wp-content/uploads/2016/04/tania-miranda-150x150.jpg
+1 6 0 26200 0 0
+/wp-content/uploads/2017/03/Screenshot_1-1024x476.png
+1 5 0 1179385 0 0
+/wp-content/themes/illdy/layout/images/blog/blog-header.png
+1 18 0 4734143 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-2-70x70.jpg
+1 1 0 2378 0 0
+/wp-content/uploads/2016/04/programac3a7c3a3o-tsi2market16-1024x499.jpg
+1 5 0 528755 0 0
+/wp-content/uploads/2017/07/aaumtv.jpg
+1 107 0 1335180 0 0
+/wp-content/plugins/jetpack/css/jetpack-admin.min.css
+0 2 0 43922 0 0
+/wp-content/uploads/2017/06/jose-476x476.jpg
+1 111 0 3776895 0 0
+/wp-content/themes/illdy/js/jquery_ui/images/ui-icons_777777_256x240.png
+1 2 0 13998 0 0
+/wp-content/themes/illdy/layout/js/visible/visible.min.js
+0 192 0 127680 0 0
+/wp-content/uploads/2013/06/hoodie_4_front-300x300.jpg
+1 5 0 29684 0 0
+/wp-content/uploads/2017/10/tsi.2.market_15-150x150.jpg
+1 5 0 34976 0 0
+/confirmar-registo
+0 15 0 1022014 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 13 0 157956 0 0
+/wp-content/uploads/2017/equipa/secre.jpg
+1 114 0 477672 0 0
+/wp-content/uploads/2017/10/logo_ais_trp-150x88.png
+1 4 0 45411 0 0
+/wp-content/uploads/2016/10/info-day-300x143.png
+1 8 0 367794 0 0
+/wp-content/uploads/2016/10/i014722-300x296.png
+1 9 0 837480 0 0
+/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js
+0 173 0 2234852 0 0
+/wp-content/uploads/2016/03/teste2.jpg
+1 28 0 14087108 0 0
+/wp-content/themes/illdy/layout/js/scripts.min.js
+0 191 0 385503 0 0
+/wp-content/uploads/2017/07/um-70x70.gif
+1 1 0 4431 0 0
+/wp-content/uploads/2017/paginas/acolhimento.jpg
+1 3 0 238251 0 0
+/wp-content/uploads/2017/10/tsi.2.market_14-212x300.jpg
+1 9 0 125027 0 0
+/wp-includes/js/wp-embed.js
+0 56 0 171545 0 0
+/wp-content/uploads/2016/02/team8-300x188.jpg
+1 5 0 48948 0 0
+/wp-includes/js/customize-models.js
+0 13 0 70476 0 0
+/wp-content/uploads/2016/02/about1-300x164.jpg
+1 13 0 234492 0 0
+/wp-content/uploads/2017/equipa/ana.jpg
+1 114 0 490880 0 0
+/wp-content/uploads/2017/07/Ábaco_Logo-300x130.png
+1 11 0 259110 0 0
+/wp-includes/js/imgareaselect/border-anim-h.gif
+1 4 0 712 0 0
+/confirmar-registo/
+0 13 0 876114 0 0
+/wp-content/uploads/2017/10/2011-300x203.png
+1 8 0 559770 0 0
+/wp-admin/js/editor.min.js
+0 19 0 119286 0 0
+/wp-includes/js/jquery/ui/slider.min.js
+0 22 0 219740 0 0
+/2014/07/
+0 1 0 94860 0 0
+/wp-content/uploads/2017/resi.png
+1 111 0 23002245 0 0
+/wp-content/uploads/2017/paginas/resisUni.jpg
+1 1 0 20036 0 0
+/screenshot_1/
+0 2 0 164062 0 0
+/wp-content/themes/illdy/layout/js/visible/visible.min.js.map
+0 114 0 206340 0 0
+/2014/07/28/tsi-2-market-062011/
+0 1 0 83729 0 0
+/wp-content/uploads/2017/06/bruno-266x300.jpg
+1 11 0 157220 0 0
+/wp-content/uploads/2017/10/20114-150x150.png
+1 5 0 95523 0 0
+/wp-includes/css/customize-preview.min.css
+0 13 0 62196 0 0
+/torneio-do-reitor/
+0 2 0 149568 0 0
+/wp-content/uploads/2016/02/noesis-300x147.png
+1 6 0 33990 0 0
+/wp-content/plugins/flickr-album-gallery/img/loading.gif
+1 3 0 53328 0 0
+/wp-content/plugins/illdy-companion/js/admin.js
+0 22 0 45600 0 0
+/wp-content/uploads/2013/06/T_6_back-300x300.jpg
+1 5 0 23056 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 20 0 50445 0 0
+/wp-content/uploads/2013/06/T_7_back-300x300.jpg
+1 5 0 22652 0 0
+/wp-content/uploads/2017/03/Screenshot_1.png
+1 1 0 202600 0 0
+/wp-content/uploads/2016/06/logo_ais-sc_uminho_fundo_branco1.jpg
+1 1 0 755266 0 0
+/wp-content/uploads/2017/09/integ-300x188.jpg
+1 11 0 179680 0 0
+/wp-includes/js/shortcode.min.js
+0 18 0 41232 0 0
+/wp-content/uploads/2017/10/youtube.png
+1 9 0 6651 0 0
+/wp-content/uploads/2017/03/cropped-teste-e1490030781781-150x75.png
+1 9 0 105656 0 0
+/wp-content/plugins/social-media-integration/js/bootstrap.js
+0 13 0 135092 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-options.js
+0 1 0 620 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-70x70.jpg
+1 1 0 2584 0 0
+/wp-content/uploads/2017/06/joao-276x300.jpg
+1 11 0 175850 0 0
+/wp-content/uploads/2017/06/luis-264x300.jpg
+1 11 0 162060 0 0
+/wp-content/uploads/2016/10/pexels-photo-171292-300x200.jpeg
+0 8 0 117327 0 0
+/wp-content/uploads/2016/05/unnamed-240x100.jpg
+1 2 0 19994 0 0
+/wp-admin/images/arrows-2x.png
+1 9 0 6904 0 0
+/wp-content/uploads/2017/07/sistemasinformacao-140x150.jpg
+1 11 0 45330 0 0
+/wp-content/uploads/2016/04/cropped-img_0530-300x175.jpg
+1 6 0 95420 0 0
+/wp-content/uploads/2013/06/T_3_front-300x300.jpg
+1 5 0 29724 0 0
+/wp-content/uploads/2013/06/hoodie_7_front-300x300.jpg
+1 5 0 32808 0 0
+/wp-content/uploads/2017/07/integracao-300x225.jpg
+1 11 0 190140 0 0
+/wp-content/uploads/2017/07/rum-70x70.jpg
+1 1 0 2607 0 0
+/wp-content/uploads/2017/10/jobshop_ltsi2007-300x145.gif
+1 6 0 105865 0 0
+/wp-admin/load-scripts.php
+0 92 0 7793546 0 11
+/wp-admin/plugin-install.php
+0 2 0 240988 1 0
+/wp-content/themes/illdy/uploads/default.png
+1 6 0 11130 0 0
+/wp-content/uploads/2016/04/rosana-novo-300x300.jpg
+1 6 0 91950 0 0
+/wp-content/plugins/jetpack/images/stars-left.svg
+0 2 0 972 0 0
+/wp-admin/about.php
+0 3 0 318579 0 0
+/wp-admin/images/spinner.gif
+1 16 0 66592 0 0
+/wp-content/uploads/2017/07/displr-70x70.jpg
+1 1 0 1462 0 0
+/wp-content/uploads/2017/10/jobshop_ltsi2007.gif
+1 2 0 114428 0 0
+/wp-includes/images/spinner-2x.gif
+1 2 0 8536 0 0
+/wp-admin/js/accordion.min.js
+0 14 0 10855 0 0
+/wp-content/plugins/flickr-album-gallery/js/flickr-jquery.js
+0 3 0 9268 0 0
+/wp-content/uploads/2013/06/hoodie_3_back-300x300.jpg
+1 5 0 28676 0 0
+/wp-content/uploads/2013/06/poster_1_up-300x300.jpg
+1 5 0 42292 0 0
+/wp-content/uploads/2013/06/T_2_back-300x300.jpg
+1 5 0 20412 0 0
+/wp-content/uploads/2017/07/Ábaco_Logo-70x70.png
+1 1 0 4082 0 0
+/wp-admin/plugins.php
+0 15 0 2732276 1 0
+/wp-admin/js/plugin-install.min.js
+0 13 0 27852 0 0
+/wp-content/uploads/2017/sobrenos/quemsomos.jpg
+1 111 0 13884268 0 0
+/wp-includes/js/tinymce/wp-tinymce.php
+0 17 0 2921603 0 2
+/wp-content/plugins/jetpack/_inc/build/style.min.css
+0 2 0 68354 0 0
+/wp-content/themes/illdy/layout/css/bootstrap-year-calendar.min.css
+0 242 0 706176 0 0
+/wp-content/uploads/2016/07/logo_ispup-150x80.png
+1 7 0 33108 0 0
+/wp-content/uploads/2016/10/eticadata-logo-300x143.png
+1 9 0 182336 0 0
+/wp-content/uploads/2013/06/cd_4_angle-300x300.jpg
+1 5 0 31264 0 0
+/wp-includes/js/customize-preview-widgets.min.js
+0 13 0 91908 0 0
+/lista-de-inscricoes/
+0 7 0 439208 0 0
+/wp-admin/post.php
+0 97 0 14292245 2 0
+/wp-content/uploads/2017/10/201777-150x150.png
+1 3 0 68019 0 0
+/wp-content/uploads/2017/07/displr.jpg
+1 107 0 379542 0 0
+/wp-includes/js/mediaelement/bigplay.svg
+0 2 0 2058 0 0
+/wp-content/uploads/2016/04/programac3a7c3a3o-tsi2market16-150x150.jpg
+1 2 0 6879 0 0
+/wp-includes/js/underscore.min.js
+0 16 0 229740 0 0
+/wp-content/plugins/enhanced-media-library/css/eml-admin.css
+0 22 0 288420 0 0
+/wp-content/uploads/2013/06/Poster_4_flat-300x300.jpg
+1 5 0 25576 0 0
+/wp-content/uploads/2016/02/cropped-optativas1-300x97.png
+1 5 0 78716 0 0
+/wp-content/uploads/2017/07/cidade_changed-300x169.jpg
+1 11 0 190500 0 0
+/wp-content/plugins/quick-paypal-payments/quick-paypal-payments.css
+0 208 0 852051 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/clipboard/clipboard.js
+0 2 0 48774 0 0
+/wp-content/plugins/flickr-album-gallery/css/font-awesome-latest/css/font-awesome.min.css
+0 3 0 41538 0 0
+/wp-content/themes/illdy/layout/js/pace/pace.min.js.map
+0 114 0 2085630 0 0
+/wp-content/uploads/2017/03/cropped-teste-e1490031045907-150x75.png
+1 10 0 120222 0 0
+/wp-content/uploads/2017/03/cropped-Screenshot_1-300x90.png
+1 9 0 144440 0 0
+/wp-content/uploads/2017/06/oliverio-278x300.jpg
+1 11 0 170140 0 0
+/wp-content/plugins/social-media-integration/css/skins/_all-skins.min.css
+0 13 0 83756 0 0
+/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+0 59 0 466088 0 0
+/wp-content/uploads/2017/10/g.png
+1 6 0 12690 0 0
+/wp-includes/css/editor.min.css
+0 19 0 505998 0 0
+/wp-content/plugins/quick-paypal-payments/settings.css
+0 22 0 37640 0 0
+/wp-content/uploads/2017/10/20112.png
+1 2 0 1801304 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/select300/select300.js
+0 2 0 284536 0 0
+/wp-content/uploads/2016/06/logo_ais-sc_uminho_fundo_transparente-300x141.png
+1 7 0 157440 0 0
+/wp-content/uploads/2016/05/unnamed-300x50.jpg
+1 7 0 42234 0 0
+/wp-content/uploads/2017/sobrenos/foto2.jpg
+1 112 0 808656 0 0
+/cidade/
+0 1 0 62460 0 0
+/wp-content/uploads/2016/03/excel-221x300.jpg
+1 6 0 72885 0 0
+/wp-content/uploads/2013/06/cd_2_flat-300x300.jpg
+1 5 0 25556 0 0
+/wp-content/uploads/2017/09/integ-70x70.jpg
+1 1 0 2464 0 0
+/wp-content/themes/illdy/layout/js/bootstrap/bootstrap.min.js.map
+0 114 0 4841466 0 0
+/wp-content/uploads/2017/10/2013-200x300.jpg
+1 8 0 90186 0 0
+/wp-content/uploads/2016/08/student_team_competition-300x285.png
+1 7 0 278040 0 0
+/quem-somos/
+0 1 0 69607 0 0
+/wp-admin/
+0 28 0 3541890 2 0
+/wp-content/uploads/2013/06/poster_5_up-300x300.jpg
+1 5 0 35320 0 0
+/wp-content/themes/illdy/inc/admin/welcome-screen/css/welcome_customizer.css
+0 13 0 11736 0 0
+/wp-content/uploads/2013/06/T_1_front-300x300.jpg
+1 5 0 29452 0 0
+/wp-content/uploads/2013/06/T_5_front-300x300.jpg
+1 5 0 25048 0 0
+/wp-content/themes/illdy/js/partner.js
+0 54 0 781316 0 0
+/wp-content/uploads/2017/10/400x400-1-300x300.png
+1 3 0 430257 0 0
+/wp-content/uploads/2016/06/logo-150x83.jpg
+1 7 0 29046 0 0
+/wp-content/themes/illdy/jsautoload/vfunctions.js
+0 255 0 1586896 0 0
+/wp-content/plugins/illdy-companion/css/jquery.fonticonpicker.grey.min.css
+0 22 0 39320 0 0
+/wp-content/uploads/2017/10/20114.png
+1 3 0 2645643 0 0
+/wp-content/uploads/2016/10/pexels-photo-106344-300x200.jpeg
+0 8 0 73892 0 0
+/wp-admin/load-styles.php
+0 37 0 3286653 0 2
+/wp-content/uploads/2017/10/20172-150x150.png
+1 3 0 53493 0 0
+/wp-content/plugins/jetpack/css/jetpack-icons.min.css
+0 4 0 3464 0 0
+/wp-content/themes/illdy/js/jquery_ui/images/ui-icons_444444_256x240.png
+1 11 0 76912 0 0
+/wp-content/uploads/2017/cidade.png
+1 111 0 22798326 0 0
+/wp-content/uploads/2016/06/cropped-rep_final-300x179.jpg
+1 7 0 72444 0 0
+/wp-content/uploads/2016/10/cartaz_roadshow_2016_1-226x300.png
+1 8 0 503587 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/MISettings.woff
+0 1 0 3944 0 0
+/wp-content/themes/illdy/layout/css/main.css.map
+0 3 0 87864 0 0
+/wp-content/uploads/2016/04/img_0717-300x225.jpg
+1 6 0 114235 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-media-list.js
+0 1 0 2052 0 0
+/wp-content/uploads/2016/03/untitled2.jpg
+1 1 0 1423785 0 0
+/wp-content/uploads/2013/06/poster_2_up-300x300.jpg
+1 5 0 32008 0 0
+/wp-content/uploads/2016/10/14753730_970918506387748_622221805362643299_o-2-212x300.jpg
+1 9 0 177352 0 0
+/wp-admin/users.php
+0 4 0 424487 0 0
+/wp-content/plugins/social-media-integration/js/plugins/select2/select2.full.min.js
+0 13 0 142344 0 0
+/wp-admin/edit-tags.php
+0 1 0 105907 0 0
+/wp-content/uploads/2016/04/cropped-cropped-finalori1-300x88.jpg
+1 6 0 28840 0 0
+/wp-content/uploads/2017/equipa/rui.jpg
+1 114 0 482976 0 0
+/wp-content/uploads/2017/07/um.gif
+1 107 0 1278264 0 0
+/wp-content/uploads/2017/10/resi-1-300x300.png
+1 1 0 147477 0 0
+/wp-content/uploads/2016/02/team1-300x188.jpg
+1 5 0 55320 0 0
+/wp-content/themes/illdy/inc/customizer/assets/css/illdy-customizer.css
+0 13 0 163440 0 0
+/wp-content/uploads/2017/07/rum.jpg
+1 109 0 4076696 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 18 0 1322000 0 0
+/wp-content/uploads/2013/06/cd_6_angle-300x300.jpg
+1 5 0 29912 0 0
+/wp-content/uploads/2017/10/twitter.png
+1 9 0 8217 0 0
+/wp-content/uploads/2016/03/untitled2-1024x724.jpg
+1 5 0 500770 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/font-awesome/font-awesome.min.css
+0 2 0 58166 0 0
+/wp-content/uploads/2017/03/logo-ais-300x142.png
+1 9 0 296920 0 0
+/wp-includes/js/zxcvbn.min.js
+0 4 0 2794912 0 0
+/wp-content/uploads/2017/paginas/resisCombatentes.jpg
+1 1 0 7161 0 0
+/wp-content/plugins/illdy-companion/css/epsilon.css
+0 31 0 254047 0 0
+/wp-content/uploads/2017/10/2012.jpg
+1 2 0 136642 0 0
+/wp-content/plugins/social-media-integration/js/demo.js
+0 13 0 37162 0 0
+/wp-content/uploads/2017/equipa/PCF.jpg
+1 114 0 558064 0 0
+/wp-content/uploads/2016/04/cropped-finalori1-300x87.jpg
+1 6 0 29270 0 0
+/wp-content/plugins/flickr-album-gallery/css/bootstrap.min.css
+0 3 0 22000 0 0
+/wp-content/uploads/2017/07/univer-300x195.jpg
+1 11 0 177140 0 0
+/wp-content/uploads/2017/10/dias-da-lig-2006.png
+1 2 0 103872 0 0
+/favicon.ico
+0 174 0 0 0 0
+/wp-content/plugins/jetpack/_inc/build/admin.js
+0 2 0 2630648 0 0
+/wp-content/uploads/2017/equipa/maria.jpg
+1 112 0 483072 0 0
+/wp-includes/js/tinymce/skins/lightgray/img/object.gif
+1 1 0 152 0 0
+/wp-content/themes/illdy/jsautoload/vpayment.js
+0 192 0 111872 0 0
+/wp-content/uploads/2016/02/blog1-300x199.jpg
+1 5 0 35056 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 22 0 15800 0 0
+/wp-content/uploads/2017/03/cropped-logo-ais.png
+1 9 0 832 0 0
+/wp-content/uploads/2017/10/20113-150x150.png
+1 5 0 137502 0 0
+/wp-content/themes/illdy/layout/css/bootstrap.min.css
+0 246 0 22939056 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/list/list.js
+0 2 0 72780 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-mimetype-options.js
+0 1 0 3880 0 0
+/wp-includes/js/mediaelement/controls.svg
+0 2 0 20688 0 0
+/wp-content/uploads/2017/10/20114-300x206.png
+1 8 0 516696 0 0
+/wp-content/plugins/jetpack/images/stars-right.svg
+0 2 0 752 0 0
+/wp-content/uploads/2016/02/12747452_1060789410640303_6127263889897028265_o-300x225.jpg
+1 5 0 56536 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/chartjs/Chart.bundle.js
+0 2 0 903914 0 0
+/wp-includes/css/admin-bar.min.css
+0 134 0 1996260 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-admin.js
+0 22 0 59480 0 0
+/wp-content/uploads/2017/10/2012-768x599.jpg
+1 6 0 230952 0 0
+/wp-includes/js/media-audiovideo.min.js
+0 18 0 206128 0 0
+/wp-content/uploads/2016/04/finalfinal-150x150.jpg
+1 2 0 7433 0 0
+/wp-includes/images/uploader-icons.png
+1 8 0 12448 0 0
+/wp-content/uploads/2016/02/team6-300x188.jpg
+1 5 0 26772 0 0
+/wp-content/uploads/2016/04/sc3adlvia-oliveira-150x150.jpg
+1 6 0 35540 0 0
+/wp-admin/admin.php
+0 30 0 3694914 5 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/waves.png
+1 2 0 21190 0 0
+/wp-content/uploads/2017/10/tsi.2.market_15.jpg
+1 10 0 1813872 0 0
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 21 0 706420 0 0
+/wp-content/plugins/social-media-integration/js/app.js
+0 13 0 45982 0 0
+/wp-content/uploads/2013/06/T_4_back-300x300.jpg
+1 5 0 24168 0 0
+/wp-content/uploads/2016/04/hour_of_code2-212x300.png
+1 6 0 372760 0 0
+/wp-content/uploads/2016/04/programac3a7c3a3o-tsi2market16-300x146.jpg
+1 9 0 79434 0 0
+/wp-content/plugins/dynamic-to-top/js/dynamic.to.top.dev.js
+0 191 0 263797 0 0
+/wp-content/themes/illdy/layout/css/jquery.dataTables.min.css
+0 242 0 2608704 0 0
+/wp-content/uploads/2016/06/logo_ais-sc_uminho_fundo_branco1-300x229.jpg
+1 7 0 54012 0 0
+/wp-content/themes/illdy/js/jquery_ui/jquery-ui.css
+0 242 0 6911424 0 0
+/wp-content/uploads/2016/05/13015600_1081679155186106_5906961819008190297_n-150x150.jpg
+1 6 0 24055 0 0
+/wp-admin/plugin-editor.php
+0 9 0 1084322 0 0
+/wp-admin/js/customize-nav-menus.min.js
+0 13 0 524208 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/admin.min.css
+0 2 0 91372 0 0
+/wp-content/uploads/2017/06/cropped-bruno-300x83.jpg
+1 11 0 56700 0 0
+/wp-content/uploads/2016/02/12698700_1060790580640186_7857758755701008971_o-300x225.jpg
+1 5 0 32556 0 0
+/wp-content/uploads/2016/10/macbook-laptop-ipad-apple-38519-300x199.jpeg
+0 8 0 120155 0 0
+/admin/
+0 68 0 2307525 1 0
+/wp-content/uploads/2016/02/team7-300x188.jpg
+1 5 0 54192 0 0
+/wp-content/uploads/2016/05/rep_final-300x179.jpg
+1 6 0 60610 0 0
+/wp-content/uploads/2016/02/blog2-300x200.jpg
+1 5 0 43528 0 0
+/wp-content/uploads/2013/06/hoodie_5_front-300x300.jpg
+1 5 0 28520 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-3-70x70.jpg
+1 1 0 2406 0 0
+/wp-content/uploads/2013/06/hoodie_2_front-300x300.jpg
+1 5 0 33852 0 0
+/wp-content/uploads/2013/06/T_4_front1-300x300.jpg
+1 5 0 29924 0 0
+/wp-includes/js/imgareaselect/border-anim-v.gif
+1 4 0 712 0 0
+/wp-content/plugins/flickr-album-gallery/js/bootstrap.min.js
+0 3 0 58220 0 0
+/wp-content/uploads/2017/03/Screenshot_1-768x357.png
+1 7 0 646175 0 0
+/wp-content/themes/illdy/inc/admin/welcome-screen/css/welcome.css
+0 22 0 75280 0 0
+/residencias/
+0 1 0 62143 0 0
+/wp-admin/update.php
+0 2 0 152300 0 0
+/wp-content/uploads/2016/07/banner-235x295-150x150.jpg
+1 7 0 41352 0 0
+/wp-content/uploads/2016/02/1414953_1060790600640184_2840322127025118348_o-300x225.jpg
+1 5 0 41792 0 0
+/wp-content/uploads/2017/07/19686363_1897096620304301_2092868661_o-300x200.jpg
+1 11 0 77280 0 0
+/wp-content/uploads/2016/06/logo_ais-sc_uminho_fundo_transparente.png
+1 1 0 1120103 0 0
+/wp-content/uploads/2017/10/2017777-1024x572.png
+1 4 0 764572 0 0
+/wp-content/uploads/2017/06/helena-253x300.jpg
+1 11 0 184620 0 0
+/wp-content/uploads/2016/02/12696988_1060783327307578_1712277725923826455_o-300x225.jpg
+1 5 0 49164 0 0
+/wp-content/uploads/2017/10/reitor.jpg
+1 13 0 684918 0 0
+/wp-content/uploads/2017/03/cropped-teste-e1490031045907.png
+1 214 0 2380875 0 0
+/wp-content/plugins/illdy-companion/css/admin.css
+0 23 0 5901 0 0
+/wp-admin/edit.php
+0 15 0 2396206 0 0
+/wp-content/uploads/2017/03/cropped-ais_logo-2-180x180.png
+1 1 0 34707 0 0
+/wp-admin/options-writing.php
+0 5 0 503422 0 0
+/wp-content/themes/illdy/jsautoload/vlogin.js
+0 199 0 3510726 0 0
+/wp-content/uploads/2016/02/optativas-300x180.png
+1 5 0 138144 0 0
+/wp-content/uploads/2016/02/about1.jpg
+1 3 0 472425 0 0
+/wp-content/themes/illdy/inc/customizer/assets/js/handlebars.js
+0 13 0 1915032 0 0
+/wp-includes/js/customize-views.js
+0 13 0 52956 0 0
+/wp-content/plugins/tidio-live-chat/media/img/icon.png
+1 28 0 76388 0 0
+/wp-content/plugins/social-media-integration/css/bootstrap.min.css
+0 13 0 249404 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/images/gauth-1-of-3.png
+1 2 0 26972 0 0
+/universidade/
+0 2 0 124382 0 0
+/wp-content/uploads/2016/04/programac3a7c3a3o-tsi2market161-300x146.jpg
+1 6 0 66135 0 0
+/wp-includes/js/media-editor.min.js
+0 18 0 174480 0 0
+/wp-content/uploads/2017/10/20112-150x150.png
+1 5 0 111024 0 0
+/wp-content/uploads/2017/07/sistemasinformacao-70x70.jpg
+1 1 0 2286 0 0
+/wp-content/uploads/2013/06/T_3_back-300x300.jpg
+1 5 0 28004 0 0
+/wp-includes/css/dashicons.min.css
+0 195 0 7325512 0 0
+/wp-content/uploads/2017/07/rum-150x150.jpg
+1 11 0 75880 0 0
+/wp-includes/js/customize-base.min.js
+0 13 0 90744 0 0
+/wp-content/uploads/2017/paginas/UM1.jpg
+1 2 0 311610 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 23 0 93012 0 0
+/wp-content/uploads/2017/03/cropped-ais_logo-2-2.png
+1 9 0 66736 0 0
+/agenda/
+0 71 0 4820719 1 0
+/wp-includes/images/media/document.png
+1 9 0 1600 0 0
+/wp-content/uploads/2017/10/dias-da-lig-2006-150x150.png
+1 2 0 49266 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-300x188.jpg
+1 11 0 165880 0 0
+/wp-content/themes/illdy/inc/customizer/assets/js/illdy-customizer-live-preview.js
+0 13 0 242856 0 0
+/wp-content/uploads/2016/04/finalfinal-1024x467.jpg
+1 5 0 459710 0 0
+/wp-content/uploads/2016/02/about2-300x164.jpg
+1 5 0 56492 0 0
+/wp-content/uploads/2017/07/aaum-150x150.jpg
+1 11 0 47140 0 0
+/wp-content/uploads/2013/06/hoodie_2_back-300x300.jpg
+1 5 0 29872 0 0
+/wp-content/uploads/2017/10/20172.png
+1 2 0 182238 0 0
+/wp-includes/js/comment-reply.min.js
+0 7 0 6468 0 0
+/wp-content/uploads/2016/04/sandra-arac3bajo-300x300.jpg
+1 6 0 64450 0 0
+/wp-content/uploads/2017/10/dias-da-lig-2006-244x300.png
+1 7 0 353905 0 0
+/wp-content/uploads/2013/06/cd_5_flat-300x300.jpg
+1 5 0 25260 0 0
+/wp-content/uploads/2016/04/cropped-finalori-300x88.jpg
+1 6 0 29445 0 0
+/wp-content/uploads/2016/02/news2-226x300.png
+1 9 0 694296 0 0
+/wp-content/uploads/2017/10/2017777-300x168.png
+1 7 0 122934 0 0
+/wp-admin/images/resize-2x.gif
+1 1 0 234 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 191 0 1518456 0 0
+/wp-content/uploads/2017/07/um-150x150.gif
+1 11 0 68940 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/fonts/fontawesome-webfont.woff2
+0 2 0 143792 0 0
+/wp-content/plugins/jetpack/_inc/jetpack-connection-banner.js
+0 2 0 2334 0 0
+/wp-content/uploads/2017/06/ricardo-259x300.jpg
+1 11 0 167690 0 0
+/wp-content/uploads/2013/06/cd_4_flat-300x300.jpg
+1 5 0 27476 0 0
+/wp-content/uploads/2017/sobrenos/ver.jpg
+1 111 0 11416636 0 0
+/wp-content/uploads/2017/03/IMG_1837-300x225.jpg
+1 9 0 108360 0 0
+/wp-admin/post-new.php
+0 8 0 1116801 0 0
+/wp-content/themes/illdy/layout/js/plugins.min.js.map
+0 114 0 155952 0 0
+/wp-content/uploads/2016/04/finalori-300x137.jpg
+1 6 0 68845 0 0
+/wp-content/uploads/2017/06/andre-251x300.jpg
+1 11 0 141250 0 0
+/wp-content/uploads/2016/04/calendc3a1rio-300x137.jpg
+1 6 0 69205 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 191 0 604000 0 0
+/wp-content/uploads/2017/07/residencias-300x199.jpg
+1 11 0 170690 0 0
+/wp-admin/images/browser.png
+1 18 0 690642 0 0
+/wp-content/uploads/2017/10/2012-300x234.jpg
+1 8 0 85884 0 0
+/wp-content/uploads/2017/03/news4-300x160.png
+1 9 0 627816 0 0
+/wp-content/uploads/2017/10/2017777-768x429.png
+1 5 0 608916 0 0
+/wp-content/plugins/flickr-album-gallery/js/jquery.blueimp-gallery.min.js
+0 3 0 63116 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/logo.png
+1 2 0 4410 0 0
+/wp-content/uploads/2016/03/teste2-220x300.jpg
+1 6 0 53735 0 0
+/wp-admin/tools.php
+0 5 0 489408 0 0
+/wp-content/uploads/2017/03/cropped-ais_logo-2-1.png
+1 9 0 41120 0 0
+/wp-includes/js/wp-util.min.js
+0 16 0 14644 0 0
+/wp-content/uploads/2017/10/2017-1024x866.png
+1 4 0 2224284 0 0
+/orgaos-sociais/
+0 2 0 255797 0 0
+/wp-content/uploads/2016/02/teste2-150x150.jpg
+1 1 0 6057 0 0
+/wp-content/uploads/2017/400x400.png
+1 111 0 24551888 0 0
+/wp-content/uploads/2017/10/tsi.2.market_15-300x218.jpg
+1 9 0 155421 0 0
+/wp-content/uploads/2017/equipa/jose-125x125.jpg
+1 114 0 481728 0 0
+/wp-content/uploads/2017/06/ana-268x300.jpg
+1 11 0 173460 0 0
+/wp-content/plugins/jetpack/css/jetpack-banners.min.css
+0 2 0 6910 0 0
+/wp-content/plugins/flickr-album-gallery/css/blueimp-gallery.min.css
+0 3 0 13630 0 0
+/wp-content/uploads/2017/06/filipe-248x300.jpg
+1 11 0 111370 0 0
+/wp-content/uploads/2017/03/wc1716532-300x188.jpg
+1 9 0 134304 0 0
+/wp-content/plugins/page-scroll-to-id/css/tinymce-custom-btn-ps2id-link.png
+1 10 0 15190 0 0
+/wp-content/themes/illdy/layout/css/bootstrap-theme.min.css
+0 192 0 3545704 0 0
+/wp-content/uploads/2013/06/poster_4_up-300x300.jpg
+1 5 0 36572 0 0
+/wp-content/uploads/2017/10/2012-150x150.jpg
+1 5 0 21603 0 0
+/wp-includes/js/media-models.min.js
+0 18 0 219280 0 0
+/wp-admin/js/updates.min.js
+0 13 0 412116 0 0
+/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js
+0 191 0 555378 0 0
+/wp-login.php
+0 11 0 33115 0 0
+/wp-content/uploads/2016/02/blog4-300x200.jpg
+1 5 0 37332 0 0
+/wp-content/uploads/2016/03/untitled2-150x150.jpg
+1 2 0 7834 0 0
+/wp-content/uploads/2017/10/2017.png
+1 1 0 94301 0 0
+/wp-includes/js/backbone.min.js
+0 11 0 209862 0 0
+/wp-content/themes/illdy/layout/js/owl-carousel/owl-carousel.min.js.map
+0 114 0 5410554 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-medialibrary-options.js
+0 1 0 668 0 0
+/documentacao/
+0 2 0 137654 0 0
+/wp-content/plugins/social-media-integration/css/AdminLTE.css
+0 13 0 210718 0 0
+/wp-content/uploads/2017/03/cropped-ais_logo-2.png
+1 3 0 77673 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 18 0 158192 0 0
+/wp-content/uploads/2016/04/finalfinal-768x350.jpg
+1 7 0 302100 0 0
+/wp-content/themes/illdy/uploads/P5030004.jpg
+1 2 0 2573946 0 0
+/wp-content/themes/illdy/layout/images/front-page/pattern.png
+1 119 0 116848 0 0
+/wp-admin/user-edit.php
+0 1 0 109156 0 0
+/wp-content/themes/illdy/jsautoload/zdataTables.buttons.min.js
+0 191 0 2494520 0 0
+/wp-content/uploads/2016/02/team2-300x188.jpg
+1 5 0 27000 0 0
+/wp-content/themes/illdy/js/jquery_ui/jquery-ui.js
+0 241 0 99456374 0 0
+/wp-includes/js/jquery/jquery.js
+0 191 0 14674784 0 0
+/wp-content/uploads/2017/10/20177-150x150.png
+1 3 0 75222 0 0
+/wp-admin/media-new.php
+0 5 0 491657 0 0
+/wp-content/themes/illdy/style.css
+0 192 0 136192 0 0
+/wp-content/uploads/2017/sobrenos/galeria.JPG
+1 111 0 7072929 0 0
+/wp-content/uploads/2017/10/20177.png
+1 6 0 469770 0 0
+/wp-content/uploads/2017/10/logo_ais_trp.png
+1 12 0 240840 0 0
+/wordpress/wp-content/uploads/2017/07/cropped-19686363_1897096620304301_2092868661_o.jpg
+1 121 0 5186545 0 0
+/wp-content/themes/illdy/layout/js/bootstrap/bootstrap.min.js
+0 191 0 5550458 0 0
+/wp-content/uploads/2016/02/12694920_1060789080640336_5503826492411475066_o-300x225.jpg
+1 5 0 68712 0 0
+/galeria/
+0 41 0 2869450 0 0
+/wp-content/plugins/jetpack/images/feature-photon-lrg.jpg
+1 2 0 394468 0 0
+/wp-content/themes/illdy/layout/js/parallax.min.js
+0 191 0 1005962 0 0
+/wp-includes/js/wp-embed.min.js
+0 202 0 226476 0 0
+/2014/07/page/3/
+0 1 0 92189 0 0
+/wp-content/uploads/2017/09/integracao-300x188.jpg
+1 11 0 210750 0 0
+/wp-admin/options-discussion.php
+0 1 0 104419 0 0
+/wp-content/uploads/2016/06/logo_ais-sc_uminho_fundo_branco-300x229.jpg
+1 7 0 54012 0 0
+/wp-content/plugins/quick-paypal-payments/quick-paypal-payments.js
+0 191 0 3534910 0 0
+/wp-content/themes/illdy/uploads/andre-240x206.jpg
+1 1 0 9795 0 0
+/wp-content/plugins/flickr-album-gallery/js/imagesloaded.pkgd.min.js
+0 3 0 13878 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/jvectormap/jquery-jvectormap-2.0.3.min.js
+0 2 0 114234 0 0
+/wp-content/uploads/2017/equipa/vita.jpg
+1 114 0 542152 0 0
+/wp-content/plugins/social-media-integration/js/plugins/select2/select2.min.css
+0 13 0 29818 0 0
+/wp-content/uploads/2013/06/hoodie_5_back-300x300.jpg
+1 5 0 24980 0 0
+/wp-content/themes/illdy/jsautoload/jquery-1.11.2.min.js
+0 54 0 4220964 0 0
+/wp-content/uploads/2017/03/teste-e1490031045907.png
+1 9 0 299056 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 205 0 1860482 0 0
+/wp-content/uploads/2017/equipa/PMA.jpg
+1 114 0 506064 0 0
+/wp-admin/images/w-logo-white.png
+1 2 0 10790 0 0
+/wp-content/themes/illdy/layout/css/style-admin.css
+0 55 0 208635 0 0
+/wp-content/themes/illdy/js/buttons.html5.min.js
+0 54 0 1030392 0 0
+/wp-includes/js/wp-backbone.min.js
+0 11 0 27180 0 0
+/wp-content/uploads/2017/10/linkedin.png
+1 9 0 10314 0 0
+/wp-content/uploads/2016/04/challenge-300x198.jpg
+1 6 0 68110 0 0
+/wp-content/themes/illdy/js/buttons.print.min.js
+0 54 0 85800 0 0
+/wp-includes/js/jquery/ui/datepicker.min.js
+0 205 0 5987312 0 0
+/wp-content/uploads/2017/06/luis-1-264x300.jpg
+1 11 0 162060 0 0
+/wp-content/themes/illdy/js/events.js
+0 54 0 1386363 0 0
+/wp-content/uploads/2016/02/teste2-300x300.jpg
+1 9 0 136320 0 0
+/wp-includes/js/tinymce/skins/lightgray/content.min.css
+0 59 0 179278 0 0
+/wp-content/uploads/2017/equipa/SCF.jpg
+1 114 0 589992 0 0
+/wp-content/uploads/2017/equipa/SMA.jpg
+1 114 0 490672 0 0
+/wp-content/uploads/2017/03/Screenshot_1-300x140.png
+1 12 0 204237 0 0
+/wp-includes/images/spinner.gif
+1 9 0 37458 0 0
+/wp-content/themes/illdy/jsautoload/vassociate.js
+0 273 0 5917950 0 0
+/wp-content/uploads/2016/02/team4-300x188.jpg
+1 5 0 42116 0 0
+/wp-content/themes/illdy/screenshot.jpg
+1 3 0 788343 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 19 0 13532 0 0
+/2017/09/21/divulgacao-10-bilhetes-gratuitos-para-o-mobile-edge17/
+0 1 0 85874 0 0
+/wp-includes/js/mediaelement/controls.png
+1 2 0 3784 0 0
+/wp-content/uploads/2013/06/hoodie_4_back-300x300.jpg
+1 5 0 28144 0 0
+/wp-content/uploads/2017/10/400x400-300x300.png
+1 15 0 1434190 0 0
+/wp-admin/js/color-picker.min.js
+0 22 0 62080 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+1 32 0 472378 0 0
+/wp-content/themes/illdy/layout/js/pace/pace.min.js
+0 191 0 1896409 0 0
+/wp-content/uploads/2013/06/hoodie_1_back-300x300.jpg
+1 5 0 30376 0 0
+/wp-content/uploads/2017/03/cropped-ais_logo-2-192x192.png
+1 9 0 324306 0 0
+/wp-includes/js/quicktags.min.js
+0 14 0 139893 0 0
+/wp-content/uploads/2016/03/untitled2-300x212.jpg
+1 9 0 97572 0 0
+/wp-content/themes/illdy/layout/css/font-awesome.min.css
+0 208 0 4568393 0 0
+/wp-content/themes/illdy/jsautoload/lbootstrap.min.js
+0 191 0 5593795 0 0
+/wp-content/uploads/2017/sobrenos/foto1.jpg
+1 133 0 9452181 0 0
+/wp-content/uploads/2013/06/poster_3_up-300x300.jpg
+1 5 0 35508 0 0
+/wp-content/themes/illdy/layout/js/count-to/count-to.min.js.map
+0 114 0 291954 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/admin.min.js
+0 2 0 40854 0 0
+/wp-content/uploads/2017/02/new1.png
+1 2 0 234474 0 0
+/wp-content/uploads/2016/02/12694546_1060789223973655_3237234499931635350_o-300x225.jpg
+1 5 0 45420 0 0
+/wp-content/themes/illdy/layout/images/close.png
+1 133 0 378662 0 0
+/wp-content/themes/illdy/layout/js/count-to/count-to.min.js
+0 191 0 310003 0 0
+/wp-content/uploads/2013/06/T_2_front-300x300.jpg
+1 5 0 27028 0 0
+/wp-content/uploads/2016/10/pexels-photo-186077-300x204.jpeg
+0 8 0 100051 0 0
+/wp-content/uploads/2016/02/about3-300x164.jpg
+1 5 0 49792 0 0
+/wp-includes/js/jquery/jquery.ui.touch-punch.js
+0 22 0 23580 0 0
+/wp-content/plugins/illdy-companion/js/epsilon.js
+0 29 0 57753 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-media-grid.js
+0 6 0 33745 0 0
+/wp-admin/images/wordpress-logo.svg
+0 9 0 12168 0 0
+/wp-content/uploads/2016/02/12694646_1060783330640911_1782328144672552954_o-300x225.jpg
+1 5 0 31436 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-1-70x70.jpg
+1 1 0 2225 0 0
+/wp-content/uploads/2017/10/tsi.2.market_14.jpg
+1 10 0 191364 0 0
+/wp-content/uploads/2017/06/fernando-284x300.jpg
+1 11 0 167590 0 0
+/wp-content/plugins/jetpack/css/dashboard-widget.css
+0 4 0 16260 0 0
+/wp-content/uploads/2017/10/reitor-300x225.jpg
+1 3 0 59763 0 0
+/wp-content/plugins/enhanced-media-library/fonts/webbistro.woff
+0 1 0 1488 0 0
+/wp-content/plugins/jetpack/_inc/build/admin.dops-style.css
+0 3 0 210243 0 0
+/wp-admin/js/media-upload.min.js
+0 19 0 20754 0 0
+/wp-content/uploads/2016/07/szqgncrx-300x300.png
+1 7 0 262284 0 0
+/wp-content/uploads/2017/10/20113-300x184.png
+1 8 0 652110 0 0
+/wp-content/uploads/2017/equipa/joao.jpg
+1 114 0 501696 0 0
+/wp-content/themes/illdy/inc/customizer/assets/js/illdy-customizer.js
+0 13 0 458976 0 0
+/wp-content/plugins/page-scroll-to-id/css/tinymce-custom-btn-ps2id-target.png
+1 10 0 15720 0 0
+/wp-content/uploads/2017/10/20113.png
+1 2 0 2692190 0 0
+/wp-content/uploads/2016/06/logo1-150x83.jpg
+1 7 0 29046 0 0
+/wp-content/uploads/2017/06/nuno-262x300.jpg
+1 11 0 203440 0 0
+/wp-includes/js/wplink.min.js
+0 19 0 198882 0 0
+/wp-content/uploads/2017/10/2017-300x254.png
+1 7 0 401286 0 0
+/wp-content/plugins/post-types-order/js/cpt.js
+0 11 0 30760 0 0
+/wp-content/uploads/2017/06/leandro-288x300.jpg
+1 11 0 175620 0 0
+/wp-content/uploads/2017/10/20112-300x219.png
+1 8 0 597108 0 0
+/
+0 383 0 42792138 37 0
+/wp-content/uploads/2016/02/12747250_1060784657307445_1890169024417439621_o-300x225.jpg
+1 5 0 45624 0 0
+/wp-content/uploads/2017/10/2013-150x150.jpg
+1 5 0 20394 0 0
+/wp-admin/nav-menus.php
+0 15 0 5439507 0 0
+/wp-content/uploads/2016/02/teste2-e1488489754609.jpg
+1 1 0 34991 0 0
+/wp-content/uploads/2017/equipa/filipe.jpg
+1 112 0 386580 0 0
+/wp-content/uploads/2013/06/Poster_5_flat-300x300.jpg
+1 5 0 22872 0 0
+/wp-content/uploads/2017/07/yme-150x150.jpg
+1 11 0 43200 0 0
+/wp-includes/js/jquery/ui/widget.min.js
+0 191 0 1043108 0 0
+/wp-content/uploads/2013/06/hoodie_3_front-300x300.jpg
+1 5 0 30892 0 0
+/wp-admin/js/svg-painter.js
+0 1 0 5484 0 0
+/wp-content/uploads/2017/07/IMG_3869_edited-300x83.jpg
+1 11 0 76300 0 0
+/wp-content/uploads/2013/06/T_4_front-300x300.jpg
+1 5 0 29924 0 0
+/wp-admin/js/iris.min.js
+0 22 0 472160 0 0
+/wp-includes/js/mediaelement/bigplay.png
+1 2 0 6002 0 0
+/wp-content/plugins/social-media-integration/css/custom.css
+0 13 0 820 0 0
+/wp-content/themes/illdy/layout/js/owl-carousel/owl-carousel.min.js
+0 191 0 6115802 0 0
+/wp-content/plugins/illdy-companion/js/jquery.fonticonpicker.min.js
+0 22 0 251980 0 0
+/wp-content/uploads/2013/06/Poster_2_flat-300x300.jpg
+1 5 0 20136 0 0
+/wp-content/uploads/2016/10/v1-input_data_atualizada-1-212x300.png
+1 9 0 410392 0 0
+/wp-content/themes/illdy/uploads/logo_ais_trp.png
+1 8 0 60210 0 0
+/wp-content/uploads/2016/05/estagio_bold_interrail-253x300.png
+1 6 0 558665 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-taxonomies-options.js
+0 1 0 11945 0 0
+/wp-content/uploads/2016/07/2-150x150.jpg
+1 7 0 47490 0 0
+/wp-content/uploads/2017/09/integracao-70x70.jpg
+1 1 0 3032 0 0
+/wp-content/uploads/2016/02/business1-300x200.jpg
+1 6 0 49420 0 0
+/wp-content/uploads/2017/03/cropped-teste-e1490030781781-1-150x75.png
+1 9 0 99496 0 0
+/wp-content/uploads/2017/07/yme-e1500569661805.jpg
+1 66 0 323127 0 0
+/wp-content/plugins/illdy-companion/css/jquery.fonticonpicker.css
+0 23 0 137761 0 0
+/wp-content/themes/illdy/layout/css/custom.min.css
+0 192 0 459648 0 0
+/wp-admin/images/spinner-2x.gif
+1 26 0 213400 0 0
+/wp-content/plugins/jetpack/images/aurora-lrg.jpg
+1 2 0 458036 0 0
+/wp-content/uploads/2017/07/aaum.jpg
+1 107 0 817224 0 0
+/wp-content/plugins/page-scroll-to-id/includes/malihu-pagescroll2id-tinymce.js
+0 8 0 38016 0 0
+/wp-content/uploads/2017/10/jobshop_ltsi2007-150x150.gif
+1 2 0 24246 0 0
+/wp-content/uploads/2017/07/cropped-19686363_1897096620304301_2092868661_o.jpg
+1 18 0 968915 0 0
+/wp-content/uploads/2017/03/cropped-teste-e1490030962279-150x75.png
+1 10 0 115146 0 0
+/integracao/
+0 5 0 335650 0 0
+/wp-content/uploads/2017/03/cropped-teste-e1490030962279-70x70.png
+1 41 0 315208 0 0
+/wp-content/themes/illdy/layout/fonts/glyphicons/glyphicons-halflings-regular.woff2
+0 104 0 1388156 0 0
+/wp-content/uploads/2017/07/aaum-70x70.jpg
+1 1 0 2033 0 0
+/wp-content/uploads/2013/06/cd_1_flat-300x300.jpg
+1 5 0 25216 0 0
+/wp-content/uploads/2017/07/cropped-img1-300x83.jpg
+1 11 0 93070 0 0
+/wp-content/themes/illdy/jsautoload/vregistrations.js
+0 275 0 5200230 0 0
+/wp-content/uploads/2017/10/2017777.png
+1 1 0 69119 0 0
+/wp-admin/options-general.php
+0 40 0 4499513 0 0
+/wp-content/plugins/post-types-order/css/cpt.css
+0 23 0 38921 0 0
+/wp-content/uploads/2017/03/cropped-ais_logo-2-300x300.png
+1 9 0 594696 0 0
+/wp-includes/js/admin-bar.min.js
+0 133 0 690048 0 0
+/wp-content/uploads/2016/04/luciana-lima-300x300.jpg
+1 6 0 76390 0 0
+/wp-content/uploads/2016/02/logo-150x36.png
+1 5 0 12792 0 0
+/wp-content/uploads/2016/04/cropped-img_05301-300x106.jpg
+1 6 0 63480 0 0
+/wp-content/uploads/2017/03/P5030004-e1490130329861.jpg
+1 113 0 66432631 0 0
+/wp-content/uploads/2017/03/cropped-ais_logo-2-32x32.png
+1 9 0 23877 0 0
+/wp-content/uploads/2013/06/hoodie_7_back-300x300.jpg
+1 5 0 24900 0 0
+/wp-admin/images/wordpress-logo-white.svg
+0 2 0 3278 0 0
+/wp-content/uploads/2016/04/pedro-vicente-213x300.jpg
+1 6 0 39955 0 0
+/wp-content/themes/illdy/uploads/logo-ais.png
+1 1 0 97375 0 0
+/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css
+0 2 0 56532 0 0
+/jantargala/
+0 3 0 203915 0 0
+/wp-content/themes/illdy/layout/css/main.css
+0 192 0 11616144 0 0
+/wp-content/uploads/2017/03/cropped-logo-ais-1-150x75.png
+1 9 0 124792 0 0
+/wp-content/uploads/2017/10/tsi.2.market_14-150x150.jpg
+1 5 0 32128 0 0
+/wp-content/plugins/flickr-album-gallery/css/font-awesome-latest/fonts/fontawesome-webfont.woff
+0 3 0 167520 0 0
+/wp-content/uploads/2016/04/programac3a7c3a3o-tsi2market16-768x374.jpg
+1 7 0 324515 0 0
+/wp-content/themes/illdy/layout/js/widget-upload-image/widget-upload-image.js
+0 22 0 26660 0 0
+/wp-content/plugins/tidio-live-chat/media/css/options.css
+0 23 0 62568 0 0
+/wp-content/uploads/2017/06/rui-150x150.jpg
+1 11 0 59570 0 0
+/wp-content/uploads/2017/equipa/andre.jpg
+1 114 0 444600 0 0
+/wp-content/uploads/2016/02/team3-300x188.jpg
+1 5 0 21696 0 0
+/wp-content/uploads/2016/04/hour_of_code21-212x300.png
+1 6 0 372760 0 0
+/wp-content/themes/illdy/layout/css/pace.min.css
+0 192 0 1306592 0 0
+/wp-content/uploads/2016/04/abel-sousa-300x300.jpg
+1 6 0 48755 0 0
+/wp-content/themes/illdy/js/jszip.min.js
+0 54 0 4485316 0 0
+/wp-includes/js/jquery/ui/tooltip.min.js
+0 2 0 11410 0 0
+/wp-content/uploads/2017/02/new1-300x156.png
+1 9 0 430488 0 0
+/wp-content/uploads/2016/02/team5-300x188.jpg
+1 5 0 32228 0 0
+/wp-content/uploads/2017/10/site.png
+1 9 0 24354 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/images/gauth-2-of-3.png
+1 2 0 25870 0 0
+/wp-content/uploads/2017/07/aaumtv-70x70.jpg
+1 1 0 2444 0 0
+/wp-content/themes/illdy/js/vAdmin.js
+0 59 0 89701 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/mascot.png
+1 2 0 12018 0 0
+/wp-content/uploads/2017/paginas/cidadeberco.jpg
+1 1 0 320402 0 0
+/admin
+0 2 0 69036 0 0
+/wp-content/uploads/2016/02/12418913_1060784653974112_5981585354318365608_o-300x225.jpg
+1 5 0 47360 0 0
+/a-nossa-historia/
+0 36 0 2925548 2 2
+/wp-admin/edit-comments.php
+0 2 0 449374 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-2-300x188.jpg
+1 11 0 163220 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 24 0 444742 0 0
+/wp-content/themes/illdy/js/jquery_ui/images/ui-icons_555555_256x240.png
+1 4 0 27952 0 0
+/wp-content/plugins/dynamic-to-top/css/images/up.png
+1 80 0 235040 0 0
+/wp-content/uploads/2017/06/claudio-295x300.jpg
+1 11 0 182550 0 0
+/wp-includes/js/jquery/ui/autocomplete.min.js
+0 13 0 99396 0 0
+/wp-content/uploads/2017/03/ais_logo-2.png
+1 9 0 75552 0 0
+/wp-content/uploads/2017/10/20114-768x527.png
+1 6 0 1871796 0 0
+/wp-content/themes/illdy/js/finances.js
+0 54 0 887392 0 0
+/wp-content/themes/illdy/layout/images/sort_desc.png
+1 1 0 158 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-3-300x188.jpg
+1 11 0 150100 0 0
+/wp-content/uploads/2017/10/2017-768x649.png
+1 5 0 1553640 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/jvectormap/jquery-jvectormap-world-mill.js
+0 2 0 208546 0 0
+/wp-admin/profile.php
+0 13 0 1420526 1 0
+/wp-content/uploads/2017/10/20177-189x300.png
+1 7 0 338868 0 0
+/wp-content/uploads/2017/07/image-2017-07-17-1-300x188.jpg
+1 11 0 128920 0 0
+/wp-content/themes/illdy/js/mbootstrap-year-calendar.min.js
+0 54 0 899184 0 0
+/wp-content/uploads/2017/06/vice-264x300.jpg
+1 11 0 162060 0 0
+/2013/01/
+0 1 0 78661 0 0
+/wp-content/uploads/2017/06/mariana-253x300.jpg
+1 11 0 174950 0 0
+/wp-content/uploads/2017/07/Ábaco_Logo.png
+1 108 0 3695125 0 0
+/wp-content/uploads/2013/06/cd_1_angle-300x300.jpg
+1 5 0 36700 0 0
+/wp-content/plugins/post-types-order/images/menu-icon.png
+1 28 0 99710 0 0
+/wp-content/uploads/2017/integ2.png
+1 113 0 33603132 0 0
+/wp-content/uploads/2013/01/news3-300x225.jpg
+1 22 0 245280 0 0
+/wp-admin/async-upload.php
+0 47 0 52489 1 0
+/wp-content/uploads/2017/10/201777-202x300.png
+1 7 0 366954 0 0
+/wp-content/uploads/2017/07/img1-300x169.jpg
+1 11 0 147380 0 0
+/wp-includes/js/plupload/wp-plupload.min.js
+0 18 0 78720 0 0
+/wp-content/uploads/2017/equipa/SMA1.jpg
+1 114 0 497328 0 0
+/wp-content/uploads/2013/06/T_6_front-300x300.jpg
+1 5 0 27696 0 0
+/wp-content/themes/illdy/layout/js/scripts.min.js.map
+0 114 0 352146 0 0
+/wp-content/themes/illdy/layout/css/owl-carousel.min.css
+0 192 0 536864 0 0
+/wp-content/uploads/2017/equipa/VPCF.jpg
+1 114 0 558480 0 0
+/wp-content/uploads/2017/10/20172-768x700.png
+1 5 0 1629720 0 0
+/wp-content/uploads/2017/03/IMG_1830-300x225.jpg
+1 9 0 115608 0 0
+/wp-content/uploads/2016/09/13403223_870983053007419_5330531014078251720_o-300x225.jpg
+1 7 0 80736 0 0
+/wp-content/themes/illdy/layout/images/sort_asc.png
+1 40 0 6400 0 0
+/wp-includes/js/customize-selective-refresh.min.js
+0 13 0 128208 0 0
+/wp-content/themes/illdy/session.php
+0 17 0 0 0 0
+/wp-includes/images/uploader-icons-2x.png
+1 2 0 3542 0 0
+/wp-includes/js/mce-view.min.js
+0 18 0 146928 0 0
+/wp-content/uploads/2013/06/hoodie_1_front-300x300.jpg
+1 5 0 35872 0 0
+/wp-content/themes/illdy/layout/fonts/font-awesome/fontawesome-webfont.woff2
+0 191 0 10060224 0 0
+/wp-content/uploads/2013/06/T_7_front-300x300.jpg
+1 5 0 25244 0 0
+/wp-content/uploads/2017/03/cropped-wc1716532-300x116.jpg
+1 9 0 85200 0 0
+/wp-includes/fonts/dashicons.eot
+0 62 0 516327 0 0
+/wp-content/uploads/2016/04/joc3a3o-magalhc3a3es-120x150.png
+1 6 0 112115 0 0
+/wp-cron.php
+0 63 0 0 44 43
+/wp-content/uploads/2016/10/pexels-photo-66463-300x200.jpeg
+0 8 0 138040 0 0
+/wp-content/uploads/2017/03/news4.png
+1 2 0 423636 0 0
+/wp-admin/images/resize.gif
+1 13 0 910 0 0
+/wp-content/uploads/2017/10/201777.png
+1 6 0 272395 0 0
+/wp-includes/js/jquery/ui/menu.min.js
+0 13 0 115200 0 0
+/wp-content/uploads/2013/06/cd_3_angle-300x300.jpg
+1 5 0 30232 0 0
+/wp-includes/js/wp-a11y.min.js
+0 13 0 7500 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff
+0 7 0 8204 0 0
+/wp-content/plugins/jetpack/images/long-clouds.svg
+0 2 0 2104 0 0
+/wp-content/uploads/2016/02/cropped-optativas-300x180.png
+1 5 0 138144 0 0
+/wp-content/themes/illdy/js/jquery.dataTables.min.js
+0 54 0 3654596 0 0
+/wp-content/plugins/flickr-album-gallery/js/bootstrap-image-gallery.min.js
+0 3 0 2192 0 0
+/wp-content/uploads/2017/10/2013.jpg
+1 7 0 541315 0 0
+/wp-content/uploads/2017/10/2011.png
+1 2 0 1701066 0 0
+/wp-admin/admin-ajax.php
+0 1284 0 15161603 7 8
+/wp-includes/js/media-views.min.js
+0 18 0 1672288 0 0
+/wp-content/uploads/2013/06/hoodie_6_back-300x300.jpg
+1 5 0 25480 0 0
+/wp-admin/js/image-edit.min.js
+0 18 0 154992 0 0
+/wp-content/themes/illdy/jsautoload/vjquery.dataTables.min.js
+0 191 0 12541909 0 0
+/wp-content/uploads/2017/07/sistemasinformacao.jpg
+1 109 0 1919944 0 0
+/wp-content/uploads/2017/03/Screenshot_1-150x150.png
+1 2 0 19530 0 0
+/wp-content/themes/illdy/uploads/400x400.png
+1 2 0 486176 0 0
+/wp-content/uploads/2016/03/untitled2-768x543.jpg
+1 7 0 327305 0 0
+/wp-content/uploads/2017/equipa/tesoureira.jpg
+1 114 0 526448 0 0
+/wp-content/uploads/2017/10/faceb.png
+1 9 0 5445 0 0
+/wp-admin/customize.php
+0 30 0 25033827 15 0
+/wp-includes/js/jquery/ui/effect.min.js
+0 191 0 2026420 0 0
+/wp-content/uploads/2016/04/peixes-300x197.jpg
+1 6 0 67365 0 0
+/wp-content/plugins/jetpack/images/stat-bars.svg
+0 2 0 1364 0 0
+/wp-content/themes/illdy/layout/js/plugins.min.js
+0 191 0 264099 0 0
+/wp-content/plugins/google-analytics-for-wordpress/assets/css/images/menu-icon@2x.png
+1 28 0 44564 0 0
+/wp-content/uploads/2017/07/yme-70x70.jpg
+1 1 0 1759 0 0
+/wp-content/themes/illdy/layout/images/sort_both.png
+1 40 0 8040 0 0
+/wp-content/uploads/2013/06/T_1_back-300x300.jpg
+1 5 0 27600 0 0
+/wp-content/themes/illdy/uploads/andre-150x150.jpg
+1 10 0 50499 0 0
+/wp-content/themes/illdy/js/dataTables.buttons.min.js
+0 54 0 726880 0 0
+/wp-content/uploads/2017/10/instagram.png
+1 9 0 16776 0 0
+/wp-content/uploads/2017/07/cropped-19686363_1897096620304301_2092868661_o-300x83.jpg
+1 11 0 27400 0 0
+/wp-content/uploads/2013/06/cd_6_flat-300x300.jpg
+1 5 0 25260 0 0
+/inscricoes/
+0 27 0 1919833 0 0
+/wp-content/plugins/enhanced-media-library/js/eml-media-models.js
+0 22 0 131840 0 0
+# End Of Table - urls
+# -sites- (monthly)
+172.20.4.102
+0 2141 1452 57887385 3 1508030045
+/wp-content/themes/illdy/bd/
+172.26.61.153
+0 10 10 425958 3 1507751011
+/wp-content/themes/illdy/bd/
+172.26.7.239
+0 96 96 4482871 1 1507050291
+/wp-content/themes/illdy/bd/
+172.20.5.1
+0 479 374 14774309 1 1508596063
+/wp-content/themes/illdy/bd/
+172.20.4.49
+0 1719 1343 61471350 7 1507938102
+/wp-content/themes/illdy/bd/
+172.26.13.110
+0 127 122 5483910 1 1507651388
+/jantargala/
+172.20.5.19
+0 104 95 2767866 2 1508635506
+/vantagens-de-socios/
+172.20.5.14
+0 3476 1592 69524719 8 1508635599
+/wp-admin/admin-ajax.php
+172.26.63.16
+0 92 92 4339144 1 1507659095
+/wp-content/themes/illdy/bd/
+192.168.233.154
+0 627 498 26669098 10 1508440457
+/wp-content/themes/illdy/bd/
+192.168.223.8
+0 65 63 40522 44 1508690493
+/wp-cron.php
+172.26.16.142
+0 95 95 4412823 1 1507640390
+/wp-content/themes/illdy/bd/
+172.20.5.9
+0 5174 4739 189042001 9 1508633767
+/wp-admin/admin-ajax.php
+172.20.4.54
+0 2766 2256 114133983 15 1507933008
+/wp-admin/admin-ajax.php
+172.20.5.50
+0 1061 680 26499089 1 1508691257
+/wp-content/themes/illdy/bd/
+172.20.4.60
+0 1768 1755 82026939 4 1507938088
+/wp-admin/admin-ajax.php
+172.20.4.97
+0 76 74 8120820 2 1508029765
+/a-nossa-historia/
+172.26.39.162
+0 128 121 5257581 1 1508429326
+/wp-content/themes/illdy/bd/
+172.26.13.58
+0 51 51 1884729 1 1507638119
+/blog/
+172.26.57.154
+0 104 102 4923547 1 1507905652
+/wp-content/themes/illdy/bd/
+172.26.11.151
+0 103 102 4711187 1 1507638166
+/wp-content/themes/illdy/bd/
+172.20.4.100
+0 98 98 4485818 1 1508005997
+/wp-content/themes/illdy/bd/
+172.26.62.1
+0 103 102 4796593 1 1507896311
+/wp-content/themes/illdy/bd/
+192.168.35.1
+0 99 97 4385202 1 1507244722
+/wp-content/themes/illdy/bd/
+172.20.5.47
+0 5566 5132 229298192 4 1508691752
+/wp-admin/admin-ajax.php
+172.20.5.21
+0 126 123 5311781 1 1508634332
+/vantagens-de-socios/
+172.20.4.133
+0 119 114 8519279 1 1508187642
+/a-nossa-historia/
+172.26.20.60
+0 289 198 9519210 7 1508451045
+/
+172.20.4.96
+0 97 96 4478604 1 1508010319
+/our-history/
+172.26.15.74
+0 187 177 7968205 2 1507647927
+/wp-content/themes/illdy/bd/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+172.20.5.19
+0 104 95 2767866 2 1508635506
+/vantagens-de-socios/
+172.20.5.14
+0 925 442 25155272 2 1508635599
+/wp-admin/admin-ajax.php
+192.168.223.8
+0 11 11 0 4 1508690493
+/wp-cron.php
+172.20.5.9
+0 879 603 33692503 8 1508633767
+/wp-admin/admin-ajax.php
+172.20.5.50
+0 1061 680 26499089 1 1508691257
+/wp-content/themes/illdy/bd/
+172.20.5.47
+0 5566 5132 229298192 4 1508691752
+/wp-admin/admin-ajax.php
+172.20.5.21
+0 126 123 5311781 1 1508634332
+/vantagens-de-socios/
+# End Of Table - sites (daily)
+# -referrers- 
+http://ais.dsi.uminho.pt/quem-somos/
+0 3
+http://ais.dsi.uminho.pt/wp-admin/plugin-editor.php
+0 37
+http://ais.dsi.uminho.pt/wp-admin/options-general.php
+0 116
+http://ais.dsi.uminho.pt/blog/
+0 157
+http://ais.dsi.uminho.pt/admiin
+0 1
+http://ais.dsi.uminho.pt/2014/07/page/3/
+0 1
+http://ais.dsi.uminho.pt/vantagens-de-socios/
+0 419
+http://ais.dsi.uminho.pt/wp-admin/update-core.php
+0 21
+http://ais.dsi.uminho.pt/2013/01/
+0 1
+http://ais.dsi.uminho.pt/wp-content/plugins/jetpack/_inc/build/style.min.css
+0 2
+http://ais.dsi.uminho.pt/agenda/
+0 1907
+http://ais.dsi.uminho.pt/wp-content/plugins/flickr-album-gallery/css/font-awesome-latest/css/font-awesome.min.css
+0 3
+http://ais.dsi.uminho.pt/wp-admin/options-writing.php
+0 11
+http://ais.dsi.uminho.pt/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 5
+http://ais.dsi.uminho.pt/wp-admin/update.php
+0 5
+http://ais.dsi.uminho.pt/universidade/
+0 3
+http://ais.dsi.uminho.pt/wp-admin/profile.php
+0 47
+http://ais.dsi.uminho.pt/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 1
+http://ais.dsi.uminho.pt/integracao/
+0 8
+http://ais.dsi.uminho.pt/404.php
+0 1
+http://ais.dsi.uminho.pt/wp-admin/edit-comments.php
+0 40
+http://ais.dsi.uminho.pt/cidade/
+0 1
+http://ais.dsi.uminho.pt/wp-admin/admin.php
+0 210
+http://ais.dsi.uminho.pt/
+0 10751
+http://ais.dsi.uminho.pt/inscricoes/
+0 229
+http://ais.dsi.uminho.pt/galeria/
+0 1915
+http://ais.dsi.uminho.pt/wp-admin/load-styles.php
+0 34
+https://www.facebook.com/
+0 3
+http://ais.dsi.uminho.pt/jantargala/
+0 21
+http://ais.dsi.uminho.pt/wp-content/themes/illdy/js/jquery_ui/jquery-ui.css
+0 10
+http://ais.dsi.uminho.pt/wp-content/plugins/google-analytics-for-wordpress/assets/css/admin.min.css
+0 4
+http://ais.dsi.uminho.pt/torneio-do-reitor/
+0 10
+http://ais.dsi.uminho.pt/wp-admin/index.php
+0 7
+http://ais.dsi.uminho.pt/wp-login.php
+0 32
+http://ais.dsi.uminho.pt/wp-admin/options-permalink.php
+0 5
+http://ais.dsi.uminho.pt/wp-content/uploads/2017/10/logo_ais_trp.png
+0 1
+http://ais.dsi.uminho.pt/residencias/
+0 3
+- (Direct Request)
+0 1276
+http://ais.dsi.uminho.pt/wp-admin/edit-tags.php
+0 3
+http://ais.dsi.uminho.pt/wp-content/themes/illdy/layout/css/jquery.dataTables.min.css
+0 76
+http://ais.dsi.uminho.pt/wp-content/illdy/session.php
+0 1
+http://ais.dsi.uminho.pt/wp-admin/users.php
+0 10
+http://ais.dsi.uminho.pt/admin.php
+0 1
+http://ais.dsi.uminho.pt/wp-admin/upload.php
+0 1440
+http://ais.dsi.uminho.pt/confirmar-registo/
+0 18
+http://ais.dsi.uminho.pt/our-history
+0 1
+http://ais.dsi.uminho.pt/wp-admin/post.php
+0 1867
+http://ais.dsi.uminho.pt/admin/
+0 1790
+http://ais.dsi.uminho.pt/wp-content/plugins/enhanced-media-library/css/eml-admin.css
+0 1
+http://ais.dsi.uminho.pt/wp-content/plugins/page-scroll-to-id/css/admin-gen.css
+0 2
+http://ais.dsi.uminho.pt/wp-admin/plugins.php
+0 137
+http://ais.dsi.uminho.pt/wp-admin/options-discussion.php
+0 2
+http://ais.dsi.uminho.pt/wp-admin/options-reading.php
+0 8
+http://ais.dsi.uminho.pt/wp-content/plugins/google-analytics-for-wordpress/assets/css/font-awesome/font-awesome.min.css
+0 1
+http://ais.dsi.uminho.pt/wp-content/plugins/jetpack/css/jetpack-icons.min.css
+0 4
+http://ais.dsi.uminho.pt/wp-admin/plugin-install.php
+0 8
+http://ais.dsi.uminho.pt/a-nossa-historia/
+0 657
+http://ais.dsi.uminho.pt/documentacao/
+0 1
+http://ais.dsi.uminho.pt/wp-admin/user-edit.php
+0 2
+http://ais.dsi.uminho.pt/wp-admin/tools.php
+0 16
+http://ais.dsi.uminho.pt/wp-admin/media-new.php
+0 15
+http://ais.dsi.uminho.pt/wp-cron.php
+0 63
+http://ais.dsi.uminho.pt/wp-content/themes/illdy/layout/css/bootstrap.min.css
+0 76
+http://ais.dsi.uminho.pt/wp-admin/nav-menus.php
+0 148
+http://ais.dsi.uminho.pt/wp-admin/widgets.php
+0 72
+http://ais.dsi.uminho.pt/wp-admin/
+0 420
+http://ais.dsi.uminho.pt/screenshot_1/
+0 4
+https://outlook.live.com/
+0 7
+https://l.facebook.com/
+0 9
+http://ais.dsi.uminho.pt/2014/07/
+0 1
+http://ais.dsi.uminho.pt/wp-admin/post-new.php
+0 174
+http://ais.dsi.uminho.pt/wp-admin/edit.php
+0 189
+http://ais.dsi.uminho.pt/wp-content/themes/illdy/layout/css/font-awesome.min.css
+0 144
+http://ais.dsi.uminho.pt/2017/09/21/divulgacao-10-bilhetes-gratuitos-para-o-mobile-edge17/
+0 6
+https://vpn.uminho.pt/+CSCOE+/portal.html
+0 1
+http://ais.dsi.uminho.pt/our-history/
+0 19
+http://ais.dsi.uminho.pt/wp-admin/customize.php
+0 1954
+http://ais.dsi.uminho.pt/orgaos-sociais/
+0 1
+http://ais.dsi.uminho.pt/wp-includes/js/imgareaselect/imgareaselect.css
+0 4
+http://ais.dsi.uminho.pt/lista-de-inscricoes/
+0 270
+http://ais.dsi.uminho.pt/wp-admin/about.php
+0 20
+http://ais.dsi.uminho.pt/wordpress/
+0 2
+# End Of Table - referrers
+# -agents- 
+Microsoft Office/16.0 (Microsoft Outlook 16.0.8600; Pro)
+0 52
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Saf
+0 9
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 10748
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 104
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.91 Safari/537.36 OPR/48.0.2685.32
+0 103
+WordPress/4.7.3; http://ais.dsi.uminho.pt
+0 63
+Mozilla/5.0 (Linux; Android 7.0; ASUS_Z012D Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile S
+0 95
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/60.0.3112.78 Chrome/60.0.3112.78 Safar
+0 191
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.1
+0 8866
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Mobile Safa
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 6580
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.
+0 127
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,7 @@
+AuthName "ais.dsi.uminho.pt statistics"
+AuthType Basic
+AuthUserFile /home/ais/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

@@ -1,0 +1,124 @@
+# Translation of Stable (latest release) in German
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-26 06:57:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: sw.cc-js-autoloader.php:66
+msgid "Like this Plugin?"
+msgstr "Du magst dieses Plugin?"
+
+#: sw.cc-js-autoloader.php:69
+msgid "Please rate the plugin"
+msgstr "Bitte bewerte dieses Plugin"
+
+#: sw.cc-js-autoloader.php:70
+msgid "Plugin homepage"
+msgstr "Plugin Homepage"
+
+#: sw.cc-js-autoloader.php:71
+msgid "Author homepage"
+msgstr "Homepage des Autors"
+
+#: sw.cc-js-autoloader.php:72
+msgid "Authors Google+ Page"
+msgstr "Google+ Seite des Autors"
+
+#: sw.cc-js-autoloader.php:73
+msgid "Authors facebook Page"
+msgstr "Facebook Seite des Autors"
+
+#: sw.cc-js-autoloader.php:78
+msgid "Need help?"
+msgstr "Du benötigst Hilfe?"
+
+#: sw.cc-js-autoloader.php:81
+msgid "Take a look at the Support section"
+msgstr "Sieh Dir den Support Bereich an"
+
+#: sw.cc-js-autoloader.php:82
+msgid "Feel free to contact the Author"
+msgstr "Kontaktiere den Autor"
+
+#: sw.cc-js-autoloader.php:87
+msgid "Translate this Plugin"
+msgstr "Übersetze dieses Plugin"
+
+#: sw.cc-js-autoloader.php:89
+msgid "It would be great if you'd support the JavaScript AutoLoader Plugin by adding a new translation or keeping an existing one up to date!"
+msgstr "Es wäre großartig wenn Du das JavaScript AutoLoader Plugin unterstützen würdest indem Du eine neue Übersetzung erstellst oder eine vorhandene aktualisierst!"
+
+#: sw.cc-js-autoloader.php:90
+msgid "Translate online"
+msgstr "Online übersetzen"
+
+#: sw.cc-js-autoloader.php:175
+msgid "Possible paths to store your JavaScript files"
+msgstr "Mögliche Pfade zum Speichern der JavaScript Dateien"
+
+#: sw.cc-js-autoloader.php:177
+msgid "Child Theme Directory"
+msgstr "Child Theme Verzeichnis"
+
+#: sw.cc-js-autoloader.php:180 sw.cc-js-autoloader.php:186
+#: sw.cc-js-autoloader.php:188
+msgid "Current Path"
+msgstr "Aktueller Pfad"
+
+#: sw.cc-js-autoloader.php:182
+msgid "You are not using a Child Theme"
+msgstr "Du benutzt kein Child Theme"
+
+#: sw.cc-js-autoloader.php:185
+msgid "Theme Directory"
+msgstr "Theme Verzeichnis"
+
+#: sw.cc-js-autoloader.php:187
+msgid "General Directory"
+msgstr "Allgemeines Verzeichnis"
+
+#: sw.cc-js-autoloader.php:191
+msgid "Currently loaded JavaScript files (in that order)"
+msgstr "Aktuell geladene JavaScript Dateien (in dieser Reihenfolge)"
+
+#: sw.cc-js-autoloader.php:210
+msgid "no files loaded currently"
+msgstr "derzeit keine Dateien geladen"
+
+#: sw.cc-js-autoloader.php:216
+msgid "in Header"
+msgstr "im Header"
+
+#: sw.cc-js-autoloader.php:223
+msgid "in Footer (be sure to call wp_footer() in your footer template!)"
+msgstr "im Footer (die Funktion wp_footer() muss im Footer Template aufgerufen werden)"
+
+#: sw.cc-js-autoloader.php:248
+msgid "Show files"
+msgstr "Dateien anzeigen"
+
+#. Plugin Name of the plugin/theme
+msgid "JavaScript AutoLoader"
+msgstr "JavaScript AutoLoader"
+
+#. Plugin URI of the plugin/theme
+msgid "http://smartware.cc/free-wordpress-plugins/javascript-autoloader/"
+msgstr "http://smartware.cc/free-wordpress-plugins/javascript-autoloader/"
+
+#. Description of the plugin/theme
+msgid "This Plugin allows you to load additional JavaScript files without the need to change files in the Theme directory. To load additional JavaScript files just put them into a directory named jsautoload."
+msgstr "Mit diesem Plugin kannst Du zusätzliche JavaScript Dateien laden ohne Änderungen am Theme vorzunehmen. Um zusätzliche JavaScript Dateien zu laden kopiere sie einfach in ein Verzeichnis mit Namen jsautoload."
+
+#. Author of the plugin/theme
+msgid "smartware.cc, Peter's Plugins"
+msgstr "smartware.cc, Peter's Plugins"
+
+#. Author URI of the plugin/theme
+msgid "http://smartware.cc"
+msgstr "http://smartware.cc"
